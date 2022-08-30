@@ -24,6 +24,5 @@ openでリポジトリ場所を開く。
 
 ![image](https://user-images.githubusercontent.com/70129567/187456386-905a9b5b-2e1b-408e-b0ee-b93ff7af5346.png)
 
-
-
+unity version 2021.3.2f1(2021 LTSであればいいかと
 
