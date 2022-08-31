@@ -26,3 +26,20 @@ openでリポジトリ場所を開く。
 
 unity version 2021.3.2f1(2021 LTSであればいいかと
 
+## gitコマンド
+
+### git branch
+現在のブランチの確認
+```
+git branch
+```
+
+ブランチdevへの変更
+```
+git checkout dev
+```
+
+リモートにあるブランチの確認
+```
+git checkout　-a
+```
