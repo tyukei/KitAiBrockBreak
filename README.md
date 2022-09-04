@@ -1,5 +1,8 @@
 # KitAiBrockBreak
 
+## gitとgithubについて
+https://teratail.com/questions/120658
+
 ## gitの確認
 
 ```
@@ -11,8 +14,24 @@ git version 1.7.3.4のように表示されればＯＫ
 表示されないとき　https://eng-entrance.com/git-install
 
 
+## github アカウント登録
+https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d
+
+チェックボタンは以下のようにするといいかも
+
+![image](https://user-images.githubusercontent.com/70129567/187669498-ca8e37c8-c9cf-4812-9a1a-d68d17d5387b.png)
+
 
 ## git インストール後コマンド
+
+forkする
+https://techtechmedia.com/how-to-fork-github/
+
+![image](https://user-images.githubusercontent.com/70129567/187668609-c9544948-8c30-49a0-9555-9d6138a65621.png)
+
+forkをクリック
+
+
 
 ```
 git clone https://github.com/tyukei/KitAiBrockBreak.git
