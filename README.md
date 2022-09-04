@@ -2,6 +2,7 @@
 
 ## gitとgithubについて
 https://teratail.com/questions/120658
+ゲストアカウントだとダメみたいです
 
 ## gitの確認
 
