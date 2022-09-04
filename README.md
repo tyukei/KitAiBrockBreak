@@ -1,5 +1,8 @@
 # KitAiBrockBreak
 
+## gitとgithubについて
+https://teratail.com/questions/120658
+
 ## gitの確認
 
 ```
