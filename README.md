@@ -1,5 +1,9 @@
 # KitAiBrockBreak
 
+# Contributors
+- [] Keita Nakata
+- [] Yuki Sakai
+
 ## gitとgithubについて
 https://teratail.com/questions/120658
 ゲストアカウントだとダメみたいです
