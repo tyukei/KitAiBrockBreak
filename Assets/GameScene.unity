@@ -305,7 +305,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 343934666}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 8fb8df98248cd264ab751725d3d2fc07, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -755,6 +755,7 @@ GameObject:
   - component: {fileID: 834035327}
   - component: {fileID: 834035326}
   - component: {fileID: 834035325}
+  - component: {fileID: 834035329}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -840,6 +841,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &834035329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834035324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2144fb0391e59d747bd30d03a55676f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1373779427
 GameObject:
   m_ObjectHideFlags: 0
