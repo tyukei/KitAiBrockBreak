@@ -354,7 +354,9 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\nakao\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\KitAiBrockBreak"
+
+  m_LastProjectPath: C:\Users\yukis\Documents\GitHub\KitAiBrockBreak
+
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -416,7 +418,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
