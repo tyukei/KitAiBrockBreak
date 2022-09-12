@@ -11,12 +11,12 @@ public class Destroyer : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
+    void Update() {
+
     }
-    private void OnCollisionEnter(Collision collision)
-    {
-        Destroy(gameObject);
+
+    private void OnCollisionEnter(Collision collision){
+         Destroy(gameObject);
+
     }
 }
